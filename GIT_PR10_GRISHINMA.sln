@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIT_PR10_GRISHINMA", "GIT_PR10_GRISHINMA.csproj", "{76A88A77-6A61-70DD-9868-4D6C7F0DEC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76A88A77-6A61-70DD-9868-4D6C7F0DEC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A88A77-6A61-70DD-9868-4D6C7F0DEC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A88A77-6A61-70DD-9868-4D6C7F0DEC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A88A77-6A61-70DD-9868-4D6C7F0DEC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE60A3A-9806-46E9-8C7B-9252BCB5F1AB}
+	EndGlobalSection
+EndGlobal
